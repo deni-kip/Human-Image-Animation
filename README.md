@@ -1,1 +1,1 @@
-## Human Image Animation with Diffusion Models - A Revolution in Motion
+# Human Image Animation with Diffusion Models - A Revolution in Motion
